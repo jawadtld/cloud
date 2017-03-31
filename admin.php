@@ -76,9 +76,9 @@
                           <option  value="01">January</option>
                           <option value="02">February</option>
                           <option value="03">March</option>
-                          <option value="04">April</option>
+                          <option selected value="04">April</option>
                           <option value="05">May</option>
-                          <option selected value="06">June</option>
+                          <option value="06">June</option>
                           <option value="07">July</option>
                           <option value="08">August</option>
                           <option value="09">September</option>
@@ -88,8 +88,8 @@
                         </select>
                         <select name="year">
                           <option value="2015">2015</option>
-                          <option selected value="2016">2016</option>
-                          <option value="2017">2017</option>
+                          <option value="2016">2016</option>
+                          <option selected value="2017">2017</option>
                           <option value="2018">2018</option>
                         </select>
                         <button name="submit" type="submit">Submit</button>
